@@ -1,5 +1,6 @@
 'use strict';
 
+
 eventsApp.directive('mySample', function($compile){
     return {
         restrict: 'C',
