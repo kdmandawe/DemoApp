@@ -1,5 +1,6 @@
 'use strict';
 
+log.console('this is prinz branch');
 
 eventsApp.directive('mySample', function($compile){
     return {
